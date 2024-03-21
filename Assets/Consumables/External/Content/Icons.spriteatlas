@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3653990a0076d4bf6a4eebfaf2e1c643, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 83ac0d31df1f24b89aa97652fad2d7f6: 21300000
+    - b0b5e4c2840d846db9157da0b32741b2: 21300000
+    - a8715803eb0ee4499b2783654959b9b1: 21300000
+    - 07a887739635c4140a1e3a67d660b9d1: 21300000
+    - b24772846933f4fa2a744357eb146abd: 21300000
+    - 217d48f53470441549531edad35300ce: 21300000
+    - b879fa68109824882b138c1a8b7d77f6: 21300000
+    - e5dbffc8b71a94bd1af6324f55ca6e94: 21300000
+    - 48dc912c8f8d540aa863a91e5c951193: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 83ac0d31df1f24b89aa97652fad2d7f6, type: 3}
+  - {fileID: 21300000, guid: b0b5e4c2840d846db9157da0b32741b2, type: 3}
+  - {fileID: 21300000, guid: a8715803eb0ee4499b2783654959b9b1, type: 3}
+  - {fileID: 21300000, guid: 07a887739635c4140a1e3a67d660b9d1, type: 3}
+  - {fileID: 21300000, guid: b24772846933f4fa2a744357eb146abd, type: 3}
+  - {fileID: 21300000, guid: 217d48f53470441549531edad35300ce, type: 3}
+  - {fileID: 21300000, guid: b879fa68109824882b138c1a8b7d77f6, type: 3}
+  - {fileID: 21300000, guid: e5dbffc8b71a94bd1af6324f55ca6e94, type: 3}
+  - {fileID: 21300000, guid: 48dc912c8f8d540aa863a91e5c951193, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_booster_add_cards
+  - icon_inf_live
+  - icon_booster_joker
+  - icon_currency_gold
+  - icon_booster_loupe
+  - icon_currency_crystal
+  - icon_booster_fan
+  - icon_booster_undo
+  - icon_booster_scissors
+  m_RenderDataMap: {}
+  m_Tag: Icons
+  m_IsVariant: 0

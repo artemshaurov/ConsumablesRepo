@@ -1,0 +1,77 @@
+[
+  {
+    "resource_name": "gold_currency",
+    "icon_address": {
+      "default": "Icons[icon_currency_gold]"
+    },
+    "category": "currency",
+    "display_name": "consumable_res/gold_display_name",
+    "data_key": "gold_data",
+    "start_count": 0
+  },
+  {
+    "resource_name": "crystals_currency",
+    "icon_address": {
+      "default": "Icons[icon_currency_crystal]"
+    },
+    "category": "currency",
+    "display_name": "consumable_res/gold_display_name",
+    "data_key": "crystals_data",
+    "start_count": 1000
+  },
+  {
+    "resource_name": "add_cards_booster",
+    "icon_address": {
+      "default": "Icons[icon_booster_add_cards]"
+    },
+    "category": "booster",
+    "data_key": "add_cards_data",
+    "start_count": 3
+  },
+  {
+    "resource_name": "undo_booster",
+    "icon_address": {
+      "default": "Icons[icon_booster_undo]"
+    },
+    "category": "booster",
+    "data_key": "undo_data",
+    "start_count": 3
+  },
+  {
+    "resource_name": "joker_booster",
+    "icon_address": {
+      "default": "Icons[icon_booster_joker]"
+    },
+    "category": "booster",
+    "data_key": "joker_data",
+    "start_count": 3
+  },
+  {
+    "resource_name": "loupe_booster",
+    "icon_address": {
+      "default": "Icons[icon_booster_loupe]"
+    },
+    "category": "booster"
+  },
+  {
+    "resource_name": "fan_booster",
+    "icon_address": {
+      "default": "Icons[icon_booster_fan]"
+    },
+    "category": "booster"
+  },
+  {
+    "resource_name": "scissors_booster",
+    "icon_address": {
+      "default": "Icons[icon_booster_scissors]"
+    },
+    "category": "booster"
+  },
+  {
+    "resource_name": "inf_live",
+    "icon_address": {
+      "default": "Icons[icon_inf_live]"
+    },
+    "category": "timer"
+  }
+]
